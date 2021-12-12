@@ -40,3 +40,6 @@ PandasSet中使用的数据集中的航向角设置与Kitti等略不相同。因
 1. 此处可视化使用的是开源可视化工具Open3D：```pip install open3d``` 即可
 2. 修改```show.py```对应的文件路径
 3. 直接运行```python show.py```
+
+### 最终结果
+![avatar](image/6f9558ede729fdd55a1cb484c0be7a8.png)
